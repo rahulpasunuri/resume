@@ -30,12 +30,12 @@ Bachelor of Technology in Computer Science and Engineering.
 Cumulative GPA: 7.48 (on scale of 10).
 
 Academic Projects
-- Analyzed of various boosting algorithms, for Viola – Jones faces detection method on various metrics(using OpenCV).
-- Implemented Jarvis-Patrick algorithm using Map-Reduce paradigm in Hadoop and contributing the same to Apache Mahout.
-- Designed simple OpenGL graphics using own procedures for Modeling, Transformations, Clipping, Lighting and z-Buffering.
 - Developed an automatic sentiment classifier to deduce the sentiment of user reviews on movies using machine learning techniques.
 - Implemented a fully functional port scanner, which can infer status of the ports using various TCP and UDP scan techniques in a multi-threaded way.
 - Implemented a simplified version BitTorrent client, which can be used to transfer files handling multiple leechers and mutliple seeders.
+- Analyzed of various boosting algorithms, for Viola – Jones faces detection method on various metrics(using OpenCV).
+- Implemented Jarvis-Patrick algorithm using Map-Reduce paradigm in Hadoop and contributing the same to Apache Mahout.
+- Designed simple OpenGL graphics using own procedures for Modeling, Transformations, Clipping, Lighting and z-Buffering.
 
 Extra-curricular Activities and Achievements
 - Member of Organizing committee and the Webmaster of Techniche-2011, North-East India’s largest Technical festival, with a budget of over 6 million INR.
