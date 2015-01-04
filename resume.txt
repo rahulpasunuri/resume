@@ -1,0 +1,52 @@
+RAHUL PASUNURI
+https://linkedin.com/in/rahulpasunuri
+https://github.com/rahulpasunuri/
+rahupasu@indiana.edu
+
+Employment
+
+Associate Instructor.
+School of Informatics & Computing, Bloomington, IN, August 2014 – Present
+Description:
+Associate Instructor for the course Information Infrastructure II. (Python, CGI, T-SQL)
+
+S&P Capital IQ, Gurgaon, India.
+Software Engineer, July 2013 – July 2014
+Description:
+Developing a system to do Auto Extraction of Financial Data from documents of various formats like PDF, Excel, Text, XML. Implemented a system for the extraction of text from PDF documents, while preserving the reading order, with the help of various open-source projects.
+
+Software Engineer, Intern.
+Yahoo! Inc, Bangalore, India, Summer 2012
+
+Creation of a testing framework for a system (called ‘Duplo’), which dynamically handles feature phone requests.
+
+Education
+Indiana University, Bloomington, IN, August 2014 - Present                                                            
+Master of Science in Computer Science.
+Cumulative GPA: 4.0 (on scale of 4).
+
+Indian Institute of Technology – Guwahati (IIT – Guwahati), August 2009 – May 2013                            
+Bachelor of Technology in Computer Science and Engineering.
+Cumulative GPA: 7.48 (on scale of 10).
+
+Academic Projects
+- Analyzed of various boosting algorithms, for Viola – Jones faces detection method on various metrics(using OpenCV).
+- Implemented Jarvis-Patrick algorithm using Map-Reduce paradigm in Hadoop and contributing the same to Apache Mahout.
+- Designed simple OpenGL graphics using own procedures for Modeling, Transformations, Clipping, Lighting and z-Buffering.
+- Developed an automatic sentiment classifier to deduce the sentiment of user reviews on movies using machine learning techniques.
+- Implemented a fully functional port scanner, which can infer status of the ports using various TCP and UDP scan techniques in a multi-threaded way.
+- Implemented a simplified version BitTorrent client, which can be used to transfer files handling multiple leechers and mutliple seeders.
+
+Extra-curricular Activities and Achievements
+- Member of Organizing committee and the Webmaster of Techniche-2011, North-East India’s largest Technical festival, with a budget of over 6 million INR.
+- Honoured with CBSE Merit Scholarship for four consecutive years.
+- Got into the Top 1 % in both National Physics Olympiad (2009) and National Chemistry Olympiad (2010), competing against around 40,000 people.
+- Secured 19th rank in Sir C.V. RAMAN ‘YOUNG GENIUS’ AWARDS (2006-2007).
+- Secured a rank of 1124 out of 0.5 million students in the exam IIT-JEE.
+- All India Rank of 149 (of .70 million) in AIEEE (All India Engineering Entrance Examination).
+
+Technical Skills
+Languages: C; C++; C#.NET; T-SQL; Python; PHP; Java; HTML; Bash; XML,JavaScript,.
+Tools & Utilities: Visual Studio; Microsoft SQL Server; Joomla; PHPUnit; LaTeX; Dreamweaver.
+Platforms: Linux, Microsoft Windows.
+
